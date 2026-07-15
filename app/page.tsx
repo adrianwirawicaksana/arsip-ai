@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-   <div>test</div>
+   <div className="h-screen w-full bg-white">main</div>
   );
 }
